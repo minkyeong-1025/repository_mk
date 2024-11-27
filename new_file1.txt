@@ -1,2 +1,6 @@
 Hello! My name is Min Kyeong Choi
-Kumoh National Institute of Technology
+KIT(Kumoh National Institute of Technology)
+
+Computer Sciences
+C programming
+Object-oriented programming
